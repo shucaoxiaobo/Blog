@@ -1,4 +1,4 @@
-# [luozm | Personal Website](http://luozm.github.io/)
+# [luozm | Personal Website](http://luozm.github.io/Blog)
 ## Description
 This is the source code of **Homepage of Luozm**.
 ## Acknowledgement
