@@ -1,5 +1,5 @@
 auto: true
-baseurl: "https://luozm.github.io/"
+baseurl: "http://luozm.github.io/"
 markdown: kramdown
 
 kramdown:
