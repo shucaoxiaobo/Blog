@@ -1,0 +1,14 @@
+auto: true
+
+markdown: kramdown
+
+kramdown:
+    input: GFM
+rouge: true
+paginate: 8
+permalink: /:title
+
+title: Luozm's Blog
+url: http://luozm.github.io/Blog
+feed: /atom.xml
+author_info: <a href="http://luozm.github.io/Blog">Luozm</a>
